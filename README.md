@@ -1,0 +1,2 @@
+# typesc
+TypeScript Basics
